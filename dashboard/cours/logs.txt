@@ -1,0 +1,2 @@
+[2023-04-26 11:04:32] Erreur à corriger je te laisse trouver chackal
+[2023-04-26 11:04:40] Ajout de l'élève ayant comme id 15 au cours ayant l'id 9
